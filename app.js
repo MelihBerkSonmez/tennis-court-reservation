@@ -7,7 +7,7 @@ const CLOSE_HOUR = 24;
 const SLOT_MINUTES = 60;
 
 const DEFAULT_CONFIG = {
-  owner: 'iyiinsan5555',
+  owner: 'MelihBerkSonmez',
   repo: 'tennis-court-reservation',
   branch: 'main',
   path: 'data/reservations.json',
