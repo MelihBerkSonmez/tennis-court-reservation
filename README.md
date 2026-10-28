@@ -6,7 +6,7 @@ through the GitHub REST API, and GitHub Pages serves the static files.
 
 This copy is wired to:
 
-- Repo owner: `iyiinsan5555`
+- Repo owner: `MelihBerkSonmez`
 - Repo: `tennis-court-reservation`
 - Branch: `main`
 - Data file: `data/reservations.json` (at the repo root, no subfolder wrapper)
@@ -31,12 +31,12 @@ repo, that's the one place to change.
 ## One-time setup
 
 1. **Push these files** to the `tennis-court-reservation` repo under
-   `iyiinsan5555`, keeping the structure: `index.html`, `style.css`,
+   `MelihBerkSonmez`, keeping the structure: `index.html`, `style.css`,
    `app.js`, and `data/reservations.json`.
 2. **Enable Pages**: repo → Settings → Pages → Build and deployment →
    Source: "Deploy from a branch" → branch `main`, folder `/ (root)` →
    Save. The site will be at
-   `https://iyiinsan5555.github.io/tennis-court-reservation/`.
+   `https://melihberksonmez.github.io/tennis-court-reservation/`.
 3. **Create a token**:
    - GitHub → Settings → Developer settings → Personal access tokens →
      Fine-grained tokens → Generate new token.
