@@ -199,6 +199,15 @@
       "courseName": "İlay",
       "description": "",
       "startDate": "2026-10-29"
+    },
+    {
+      "id": "60181072-8d1e-41ec-9131-4accdba420e1",
+      "court": "Ana Kort",
+      "dayOfWeek": 6,
+      "startTime": "15:00",
+      "courseName": "Poyraz Ali",
+      "description": "",
+      "startDate": "2026-11-01"
     }
   ]
 }
